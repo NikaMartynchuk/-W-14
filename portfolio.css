@@ -132,15 +132,6 @@
     padding: 161px 0;
 }
 
-.footer-p {
-    color: white;
-    padding: 9px;
-    padding-left: 214px;
-}
-
-.footer-a {
-    padding-left: 214px;
-}
 
 
 .header {
@@ -293,10 +284,32 @@
 }
 
 
-.project-LAB{
+.project-LAB {
     padding-left: 30px;
 }
 
-.growing-business{
+.growing-business {
     padding-left: 30px;
+}
+
+.footer-a {
+    padding-top: 60px;
+    padding-left: 215px;
+}
+
+.footer-p{
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    padding-bottom: 9px;
+    padding-left: 214px;
+}
+
+.foter-p{
+    font-weight: 400;
+    font-size: 14px;
+    color: #bcbcbc;
+    padding-bottom: 9px;
+    padding-left: 215px;
 }
