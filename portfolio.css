@@ -113,7 +113,7 @@
 }
 
 .main-h7 {
-    display: block;
+    display: flex;
     padding-bottom: 4px;
 }
 
@@ -240,3 +240,6 @@
 }
 
 
+.containerr{
+    display: flex;
+}
