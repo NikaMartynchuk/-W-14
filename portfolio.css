@@ -232,6 +232,7 @@
 
 .section-two-content {
     align-items: flex-start;
+    padding-left: 30px;
 }
 
 .section {
@@ -257,6 +258,7 @@
 
 .section-two-content2 {
     align-items: flex-start;
+    padding-left: 30px;
 }
 
 .section-three {
@@ -276,16 +278,25 @@
 
 .project-prime {
     width: 370px;
-    background-color: #EEEEEE;
+    padding-left: 30px;
 }
 
 .project-boxes {
     width: 370px;
-    background-color: #EEEEEE;
+    padding-left: 30px;
 }
 
 
 .Inspiration-has-no-Borders {
     width: 370px;
-    background-color: #EEEEEE;
+    padding-left: 30px;
+}
+
+
+.project-LAB{
+    padding-left: 30px;
+}
+
+.growing-business{
+    padding-left: 30px;
 }
