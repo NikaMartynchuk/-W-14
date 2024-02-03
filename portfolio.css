@@ -242,17 +242,22 @@
     display: flex;
 }
 
+
+.containerr {
+    display: flex;
+}
+
 .section-two-content2 {
     align-items: flex-start;
 }
 
-.section-three{
+.section-three {
     display: flex;
     align-items: center;
     padding-left: 215px;
 }
 
-.section-five{
+.section-five {
     display: flex;
     align-items: center;
     padding-left: 215px;
