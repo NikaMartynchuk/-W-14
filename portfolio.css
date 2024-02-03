@@ -195,6 +195,10 @@
     font-size: 14px;
 }
 
+.section-two-content2{
+width: 370px;
+}
+
 .header-tel {
     position: absolute;
     padding-left: 778px;
@@ -242,4 +246,8 @@
 
 .containerr{
     display: flex;
+}
+
+.section-two-content2{
+    align-items: flex-start;
 }
