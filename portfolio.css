@@ -136,7 +136,7 @@
 
 .header {
     display: flex;
-    padding: 24px 0;
+    padding-left: 215px;
 }
 
 .header-a {
@@ -183,7 +183,7 @@
     align-items: center;
     position: absolute;
     width: 320px;
-    padding-left: 963px;
+    padding-left: 813px;
     color: #212121;
     font-size: 14px;
 }
@@ -194,7 +194,7 @@
 
 .header-tel {
     position: absolute;
-    padding-left: 778px;
+    padding-left: 628px;
     width: 320px;
     color: #212121;
     font-size: 14px;
@@ -313,4 +313,9 @@
     color: #bcbcbc;
     padding-bottom: 9px;
     padding-left: 215px;
+}
+
+.section-background{
+border: solid #EEEEEE;
+border-width: 1px;
 }
