@@ -161,8 +161,6 @@
 
 .section-two {
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
     align-items: center;
 }
 
@@ -206,7 +204,6 @@ width: 370px;
 
 .section-two-content {
     justify-content: space-between;
-    display: flex;
 }
 
 .section-four-item {
@@ -226,7 +223,9 @@ width: 370px;
     padding-left: 450px;
 }
 
-
+.section-two-content{
+    align-items: flex-start; 
+}
 
 .section{
     width: 1170px;
@@ -246,6 +245,7 @@ width: 370px;
 
 .containerr{
     display: flex;
+padding-left: 20px;
 }
 
 .section-two-content2{
