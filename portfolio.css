@@ -150,6 +150,7 @@
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+   text-decoration: none;
 }
 
 .section-two {
@@ -186,6 +187,7 @@
     padding-left: 813px;
     color: #212121;
     font-size: 14px;
+    text-decoration: none;
 }
 
 .section-two-content2 {
@@ -198,6 +200,7 @@
     width: 320px;
     color: #212121;
     font-size: 14px;
+    text-decoration: none;
 }
 
 .section-two-content {
@@ -298,7 +301,7 @@
     padding-left: 215px;
 }
 
-.footer-p{
+.footer-p {
     padding-top: 20px;
     font-weight: 400;
     font-size: 14px;
@@ -307,7 +310,7 @@
     padding-left: 214px;
 }
 
-.foter-p{
+.foter-p {
     font-weight: 400;
     font-size: 14px;
     color: #bcbcbc;
@@ -315,7 +318,8 @@
     padding-left: 215px;
 }
 
-.section-background{
-border: solid #EEEEEE;
-border-width: 1px;
+.section-background {
+    border: solid #EEEEEE;
+    border-width: 1px;
+    width: 370px;
 }

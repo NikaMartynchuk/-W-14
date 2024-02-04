@@ -63,6 +63,7 @@
   display: flex;
   margin-right: 50px;
   align-items: center;
+  text-decoration: none;
 }
 
 .main-h1 {
@@ -136,6 +137,7 @@
   margin-right: 50px;
   color: #212121;
   vertical-align: top;
+  text-decoration: none;
 }
 
 
@@ -152,6 +154,7 @@
   color: #212121;
   vertical-align: top;
   margin-left: auto;
+  text-decoration: none;
 }
 
 .header-a1:hover {
