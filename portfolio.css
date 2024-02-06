@@ -176,6 +176,7 @@
 .header-a1 {
     display: flex;
     align-items: center;
+    padding-left: 215px;
 }
 
 
@@ -223,6 +224,7 @@
     list-style: none;
     display: flex;
     padding-left: 53px;
+    justify-content: space-between;
 }
 
 
