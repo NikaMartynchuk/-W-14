@@ -137,7 +137,7 @@
 
 .header {
     display: flex;
-    padding-left: 215px;
+    justify-content: center;
 }
 
 .header-a {
