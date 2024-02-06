@@ -286,6 +286,7 @@ element.style {
 .section-four-wrap {
   justify-content: space-between;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .section-three {

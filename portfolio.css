@@ -209,7 +209,7 @@
 
 
 .section-one {
-    padding-left: 450px;
+ justify-content: center;
 }
 
 .section-two-content {
@@ -272,6 +272,12 @@
     padding-left: 214px;
 }
 
+
+.container{
+justify-content: center;
+}
+
+
 .foter-p {
     font-weight: 400;
     font-size: 14px;
@@ -303,6 +309,12 @@
     padding-top: 50px;
     width: 100%;
 }
+
+.container-button{
+    justify-content: center;
+    display: flex;
+}
+
 
 
 /* .section-four {
