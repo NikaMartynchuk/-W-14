@@ -100,6 +100,16 @@
     justify-content: center;
 }
 
+.section-three{
+    display: block;
+}
+
+.section-three .container{
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
 .main-button:hover {
     background-color: var(--color-acent);
     color: #F5F4FA;
@@ -130,7 +140,7 @@
 .footer {
     width: 1600px;
     background-color: rgb(38, 38, 38);
-    padding: 93px 0;
+    padding: 94px 0;
 }
 
 
@@ -253,8 +263,20 @@
     padding-left: 30px;
 }
 
+.footer-div{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
 .footer-a {
     padding-top: 60px;
+    display: block;
+    width: 30%;
+    margin-bottom: 20px;
 }
 
 .footer-p {
@@ -263,6 +285,7 @@
     font-size: 14px;
     color: white;
     padding-bottom: 9px;
+    margin: 9px;
 }
 
 .container1 {
@@ -320,6 +343,11 @@
     justify-content: center;
     display: flex;
 }
+
+.footer-p {
+    color: white;
+    margin: 9px;
+  }
 
 
 
