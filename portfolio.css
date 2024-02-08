@@ -191,12 +191,10 @@
 
 .header-tel1 {
     align-items: center;
-    position: absolute;
-    width: 320px;
-    padding-left: 813px;
     color: #212121;
     font-size: 14px;
     text-decoration: none;
+    margin-left: 50px;
 }
 
 .section-two-content2 {
@@ -204,12 +202,10 @@
 }
 
 .header-tel {
-    position: absolute;
-    padding-left: 628px;
-    width: 320px;
     color: #212121;
     font-size: 14px;
     text-decoration: none;
+    margin-left: 250px;
 }
 
 
