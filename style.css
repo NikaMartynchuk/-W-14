@@ -211,7 +211,42 @@
 }
 
 .section-two1 {
-margin-top: 10px;
+  margin-top: 94px;
+}
+
+.section-two-antenna::before {
+  content: url("photos/astronaut\ 1.jpg");
+  height: 100px;
+  display: flex;
+  width: 100%;
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.main-img{
+margin-right: 25px;
+}
+
+.section-two-clock ::before {
+  background-image: url('photos/clock\ 1.jpg');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.section-two-vector ::before {
+  background-image: url('photos/Vector.jpg');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.section-two-astronaut ::before {
+  background-image: url('photos/astronaut\ 1.jpg');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .container1 {
@@ -302,11 +337,11 @@ element.style {
   margin-bottom: 50px;
 }
 
-.section-three-wrap{
+.section-three-wrap {
   display: flex;
   justify-content: space-between;
 }
 
-.main-img{
+.main-img {
   width: 100%;
 }

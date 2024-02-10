@@ -222,6 +222,8 @@
     justify-content: space-between;
     flex-basis: calc((100% - 60px) / 3);
     width: 31%;
+    border: 1px solid #EEEEEE;
+    box-sizing: border-box;
 }
 
 .section {
@@ -325,7 +327,6 @@
 }
 
 .main-img {
-    padding-top: 50px;
     width: 100%;
 }
 
