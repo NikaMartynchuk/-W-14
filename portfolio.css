@@ -100,11 +100,11 @@
     justify-content: center;
 }
 
-.section-three{
+.section-three {
     display: block;
 }
 
-.section-three .container{
+.section-three .container {
     width: 1170px;
     padding: 0 15px;
     margin: 0 auto;
@@ -260,7 +260,7 @@
     padding-left: 30px;
 }
 
-.footer-div{
+.footer-div {
     margin: 0;
     padding: 0;
     border: 0;
@@ -337,7 +337,7 @@
 
 .footer-p {
     color: white;
-  }
+}
 
 
 

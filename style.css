@@ -255,13 +255,21 @@
   background-position: center;
 }
 
-.main-img{
-margin-right: 25px;
+.main-img {
+  margin-right: 25px;
 }
 
+.section-one {
+  background-color: #C4C4C4;
+  color: white;
+  background-size: 1600px;
+}
 
 .container1 {
-  background-color: rgb(38, 38, 38);
+  background-image: url(/photos/img16.jpg);
+  background-size: 1600px;
+  opacity: 0.8;
+  background-color: #C4C4C4;
   color: white;
   padding: 200px 0;
 }
