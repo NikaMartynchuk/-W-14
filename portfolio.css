@@ -110,10 +110,7 @@
     margin: 0 auto;
 }
 
-.main-button:hover {
-    background-color: var(--color-acent);
-    color: #F5F4FA;
-}
+
 
 .main-h7 {
     display: flex;

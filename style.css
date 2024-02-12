@@ -260,18 +260,27 @@
 }
 
 .section-one {
-  background-color: black;
   color: white;
   background-size: 1600px;
 }
 
+.main-article{
+    position: relative;
+    z-index: 3;
+    color: #fff;
+    text-align: center;
+    padding: 50px;  
+  }
+
 .container1 {
   background-image: url(photos/img16.jpg);
   background-size: 1600px;
-  opacity: 0.8;
+  background-repeat: no-repeat;
   color: white;
   padding: 200px 0;
 }
+
+
 
 .container {
   width: 1170px;
