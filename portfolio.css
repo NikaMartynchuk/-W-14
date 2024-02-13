@@ -86,6 +86,10 @@
     color: var(--color-acent);
 }
 
+.section-two-content:hover{
+box-shadow: 0px 1px 5px #dddddd;
+}
+
 .main-button {
     font-size: 16px;
     font-weight: 700;
